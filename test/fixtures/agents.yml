@@ -1,0 +1,9 @@
+one:
+  codename: alpha
+  level: 1
+  active: true
+
+two:
+  codename: beta
+  level: 2
+  active: false
